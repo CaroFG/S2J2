@@ -22,6 +22,7 @@ def sum_of_3_or_5_multiples(final_number)
  	 current_number = 0
  	 while current_number < final_number
 
+
   		# Ici, lance une boucle qui va de zéro au chiffre "final_number" EXCLU (car on est sur du strictement inférieur)
   		# cette boucle indente à chaque tour une variable (par exemple "current_number") qui vaudra 0 puis 1 puis 2 ... etc.
 
